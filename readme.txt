@@ -12,7 +12,8 @@ WP Horoscope giúp hiển thị thông tin trong ngày của các cung hoàng đ
 WP Horoscope là một plugin rất hay, cho phép bạn lấy thông tin trong 1 ngày của các cung hoàng đạo. Hỗ trợ bạn hiển thị trong widget hoặc trong shortcut.
 Rất hiệu quả và tiện lợi cho các bạn thích cung hoàng đạo.
 
-Hướng dẫn viết plugin này : Viết plugin WP Horoscope - Cung hoàng đạo cho wordpress
+Hướng dẫn viết plugin này : [Viết plugin WP Horoscope - Cung hoàng đạo cho wordpress](http://laptrinh.senviet.org/wordpress-plugin/viet-plugin-wp-horoscope-cung-hoang-dao-cho-wordpress/)
+Project on github : [wp-horoscope](https://github.com/senviet/wp-horoscope)
 
 == Screenshots ==
 1. widget
